@@ -1,0 +1,4 @@
+Processed 15053 CIKs, kept 56
+Avg latency: 181.59 ms, median: 175.75 ms
+429/503: 0, retries: 0/17679
+Final CSV: D:\.Programs\VisualStudioProjects\SEC-feeds\edgar-search\runs\2025-09-08_15-25-56\final_companies.csv

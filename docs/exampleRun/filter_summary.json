@@ -1,0 +1,17 @@
+{
+  "xml_reachable": 17679,
+  "ciks_in_master": 15053,
+  "passes_ca": null,
+  "passes_residential": null,
+  "passes_506b": null,
+  "unique_ciks_kept": 56,
+  "avg_request_latency_ms": 181.59,
+  "median_request_latency_ms": 175.75,
+  "429_or_503_count": 0,
+  "retried_requests": 0,
+  "total_requests": 17679,
+  "retry_rate": 0.0,
+  "dedupe_rate": 0.0,
+  "percent_reduction_vs_unique_ciks": 99.63,
+  "final_companies_csv": "D:\\.Programs\\VisualStudioProjects\\SEC-feeds\\edgar-search\\runs\\2025-09-08_15-25-56\\final_companies.csv"
+}

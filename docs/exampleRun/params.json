@@ -1,0 +1,11 @@
+{
+  "start_date": "2024-01-01",
+  "end_date": "2025-01-01",
+  "form_filter": [
+    "D",
+    "D/A"
+  ],
+  "include_amendments": true,
+  "resolver_mode": "hybrid",
+  "user_agent": "ET/edgar-search-v1.0 erentibo@gmail.com Personal project"
+}
