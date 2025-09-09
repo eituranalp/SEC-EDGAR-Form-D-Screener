@@ -1,7 +1,1 @@
 requests
-beautifulsoup4
-lxml
-pdfminer.six
-requests-cache
-
-
