@@ -23,7 +23,7 @@ Each run creates `runs/<timestamp>/` with:
 - **`pull_summary.json`** - Funnel: total filings → D/D-A → LLC name → master list
 - **`filter_summary.json`** - Funnel: XML reachable → CA → residential → final count + latency/429s/dedupe metrics
 
-**One-pager:** [docs/EDGARFormDScreener-OnePager](https://eituranalp.github.io/SEC-EDGAR-Form-D-Screener/EDGARFormDScreener-OnePager.pdf)
+**One-pager:** [docs/EDGARFormDScreener-OnePager](https://eituranalp.github.io/SEC-EDGAR-Form-D-Screener/EDGARFormDScreener-OnePager.pdf?v=2025-09-08)
 
 ## Politeness & Rate Limits
 
