@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.log
+.env
+.venv/
+.venv*/
+.python-version
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Project artifacts
+runs/
